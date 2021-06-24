@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lions, Tigers, Other Cats, Oh My!
+    </title>
+  </head>
+  <body>
+    <h1>Lions, Tigers, Other Cats, Oh My!</h1>
+    <h5>By Gavin Beauchamp</h5>
+    <img src="/CatPicture.jpg" height= "1000" alt="An example of a cat!">
+    
+    <p><h2>
+    What is a Cat?
+    </h2></p>
+    
+    <p><h3>
+      The cat, or genus felis is an animal that while some may consider cute, is in reality, totally deadly. Between the sharp claws, long teeth, and blind anger, this deceivingly adorable kitten could be making you its next meal.
+    </h3></p>
+    <br>
+    <p><h2>
+      Types of Cats
+    </h2></p>
+
+    <p><h3>
+      Cats come in all shapes and sizes. From the large man eating tiger, to the smaller but still likely man eating house cat. But while one lives in the jungle praying on other tigers and villagers, the other, gremlin sized carnivore may be sitting in your house lying in wait. For what exactly? Recent evidence suggests human flesh.
+    </h3></p>
+    <br>
+    <p><h2>
+      The Definition of a Cat
+    </h2></p>
+
+    <p><h3>
+      I don't have to spend much time explaining what exeactly a cat means. Scientists on the other hand have some explaining to do. Recent excavations of extinct cats <strong><strong><i>or lack of</i></strong></strong>, proves that cats never exhisted before 1974, when the first bioweapon called felinus catticus was engineered in a lab. And the rest is history.
+    </h3></p>
+    <br>
+    <p><h2>
+      Why Everyone Should Hate Cats
+    </h2></p>
+
+    <p><h3>
+      In conclusion, cats are not friendly but inherintly evil. Though they may come off adorable to the weak of mind, a cat does not like you, will not be nice to you, and if you're not careful will eventually eat you. Upgrade to a dog.
+    </h3></p>
+    <br>
+  </body>
+</html>
